@@ -1,0 +1,47 @@
+# Build Folders
+bin/
+obj/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.NuGet.Config
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.temp
+*.cache
+*.pid
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Others
+*.db
+*.bak
+*.swp
