@@ -45,7 +45,7 @@ namespace CSharpPlayground.DI.Examples
      {
         public void Run()
         {
-            Console.WriteLine("===DI Example ===");
+            Console.WriteLine("=== DI Examples ===");
 
             // 1. create DI container
             var services = new ServiceCollection();
